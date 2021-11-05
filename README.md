@@ -55,7 +55,7 @@ wget -qO brook-pf-mod.sh https://raw.githubusercontent.com/sjqboss/brook/master/
 ## 手动安装
 因国内下载github资源速度缓慢，建议国内机器使用手动安装来使用。
 
-根据您的服务器系统版本下载对应版本。(一般都是第一个)
+根据您的服务器系统版本下载对应版本。(v20200801)
 ```
 https://github.com/txthinking/brook/releases
 ```
