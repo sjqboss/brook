@@ -1,7 +1,7 @@
 module.exports = {
     "id": "tqyb",
     "name": "天气预报极速版",
-    "keys": ["tqyburl","tqyburl2","tqyburl3","tqyburl4","tqyburl5"],
+    "keys": ["beegosessionID=57e5ee426efbd96a73dc796f8cdd703b","tqyburl2","tqyburl3","tqyburl4","tqyburl5"],
     "author": "@tom",
     "settings": [{
       "id": "tqybSuffix",
